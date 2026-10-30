@@ -1,0 +1,8 @@
+{
+  "entrypoint": "index.js",
+  "compatibilityDate": "2024-01-01",
+  "modules": [
+    { "name": "index.js", "type": "esm", "path": "./service.js" }
+  ],
+  "assetsDirectory": "./out"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "the-loop-copilot",
+  "version": "0.1.0",
+  "type": "module",
+  "devDependencies": {
+    "wrangler": "4.148.0"
+  }
+}

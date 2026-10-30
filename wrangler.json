@@ -1,0 +1,9 @@
+{
+  "compatibilityDate": "2024-01-01",
+  "modules": [
+    { "name": "service.js", "type": "esm", "path": "service.js" }
+  ],
+  "assets": {
+    "directory": "out"
+  }
+}
